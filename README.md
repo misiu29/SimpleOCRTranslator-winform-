@@ -1,0 +1,2 @@
+# SimpleOCRTranslator-winform-
+ja-zh
